@@ -31,13 +31,13 @@
     }
   },
   "estimator": {
-    "title": "Solarpotenzialbewertung",
+    "title": "Solivovle-Potenzialbewertung",
     "description": "Laden Sie ein Dachbild hoch und zeichnen Sie den nutzbaren Bereich, um sofortige Schätzungen Ihres Solarenergiepotenzials zu erhalten."
   },
   "cta": {
     "title": "Bereit, Solarenergie zu nutzen?",
     "description": "Beginnen Sie heute Ihre Solarreise, indem Sie das Potenzial Ihres Daches mit unserem interaktiven Tool schätzen lassen.",
-    "button": "Holen Sie sich Ihre Solar-Schätzung"
+    "button": "Holen Sie sich Ihre Solivovle-Schätzung"
   },
   "footer": {
     "description": "Berechnen Sie das Solarpotenzial Ihres Daches mit unserem interaktiven Tool. Treffen Sie fundierte Entscheidungen über die Installation von Solarmodulen und beginnen Sie zu sparen.",
@@ -52,7 +52,7 @@
   },
   "contact": {
     "title": "Kontaktieren Sie Uns",
-    "description": "Haben Sie Fragen zu unserem Solar-Schätzwerkzeug? Wir sind hier, um zu helfen! Kontaktieren Sie unser Team für Unterstützung oder weitere Informationen.",
+    "description": "Haben Sie Fragen zu unserem Solivovle-Schätzwerkzeug? Wir sind hier, um zu helfen! Kontaktieren Sie unser Team für Unterstützung oder weitere Informationen.",
     "getInTouch": "Kontakt Aufnehmen",
     "getInTouchDescription": "Füllen Sie das Formular aus, und unser Team wird sich so schnell wie möglich bei Ihnen melden. Wir freuen uns, von Ihnen zu hören und alle Fragen zu beantworten, die Sie zur Solarenergieabschätzung haben könnten.",
     "form": {
@@ -63,7 +63,7 @@
       "sending": "Wird gesendet..."
     },
     "faq": "Häufig Gestellte Fragen",
-    "faqDescription": "Brauchen Sie eine schnelle Antwort? Schauen Sie auf unserer FAQ-Seite nach häufig gestellten Fragen zu unserem Solar-Schätzwerkzeug."
+    "faqDescription": "Brauchen Sie eine schnelle Antwort? Schauen Sie auf unserer FAQ-Seite nach häufig gestellten Fragen zu unserem Solivovle-Schätzwerkzeug."
   },
   "language": {
     "en": "Englisch",

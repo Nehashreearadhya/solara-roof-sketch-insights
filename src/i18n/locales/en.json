@@ -31,13 +31,13 @@
     }
   },
   "estimator": {
-    "title": "Solar Potential Estimator",
+    "title": "Solivovle Potential Estimator",
     "description": "Upload a rooftop image and draw the usable area to get instant estimates of your solar energy potential."
   },
   "cta": {
     "title": "Ready to Harness Solar Power?",
     "description": "Start your solar journey today by estimating your rooftop's potential with our interactive tool.",
-    "button": "Get Your Solar Estimate"
+    "button": "Get Your Solivovle Estimate"
   },
   "footer": {
     "description": "Calculate your rooftop's solar potential with our interactive tool. Make informed decisions about solar panel installation and start saving.",
@@ -52,7 +52,7 @@
   },
   "contact": {
     "title": "Contact Us",
-    "description": "Have questions about our solar estimator? We're here to help! Get in touch with our team for support or more information.",
+    "description": "Have questions about our Solivovle estimator? We're here to help! Get in touch with our team for support or more information.",
     "getInTouch": "Get in Touch",
     "getInTouchDescription": "Fill out the form and our team will get back to you as soon as possible. We're excited to hear from you and answer any questions you may have about solar energy estimation.",
     "form": {
@@ -63,7 +63,7 @@
       "sending": "Sending..."
     },
     "faq": "Frequently Asked Questions",
-    "faqDescription": "Need a quick answer? Check our FAQ page for common questions about our solar estimator tool."
+    "faqDescription": "Need a quick answer? Check our FAQ page for common questions about our Solivovle estimator tool."
   },
   "language": {
     "en": "English",
@@ -101,7 +101,7 @@
     "taxCredit": "Tax Credit"
   },
   "heatmap": {
-    "title": "Solar Heatmap Analysis",
+    "title": "Solivovle Heatmap Analysis",
     "description": "Visual representation of solar energy potential across your roof surface.",
     "annualDescription": "Visualization of estimated annual solar energy production across your roof surface in kWh.",
     "selectVisualization": "Select view",
